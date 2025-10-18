@@ -1,0 +1,4 @@
+Router:
+  platform: cisco_ios
+Switch:
+  platform: cisco_ios

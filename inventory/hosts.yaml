@@ -1,0 +1,5 @@
+R1:
+  hostname: 10.10.10.2
+  username: admin
+  password: cisco
+  platform: cisco_ios
